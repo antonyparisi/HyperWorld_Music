@@ -5,11 +5,11 @@ per quanto attiene alla descrizione della collaborazione ed al codice di condott
 
 Per quanto attiene alle tecnologie che saranno utilizzate dall'autore si prevede il ricorso a:
 
-Studio One+ quale DAW
-Interfaccia audio USB-C Quantum ES 2
-Launchpad X
-Linnstrument
-Yamaha Keyboard
-Kontrol S Natove Instrument
-Omnisphere 
-Roland V-Drum
+Studio One+ quale DAW, 
+Interfaccia audio USB-C Quantum ES 2, 
+Launchpad X, 
+Linnstrument,
+Yamaha Keyboard, 
+Kontrol S Natove Instrument, 
+Omnisphere, 
+Roland V-Drum, 
